@@ -7,10 +7,10 @@ In this example, I created a Python script to visualize the weather of 500+ citi
 My objective was to build a series of scatter plots to showcase the following relationships:
 
 
-Temperature (F) vs. Latitude
+Temperature (degC) vs. Latitude
 Humidity (%) vs. Latitude
 Cloudiness (%) vs. Latitude
-Wind Speed (mph) vs. Latitude
+Wind Speed (m/s) vs. Latitude
 
 
 My final notebook:
